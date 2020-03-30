@@ -111,7 +111,7 @@ Proxy:
 #  # udp: true
 #  # sni: example.com # aka server name
 #  # alpn:
-#  #   - h2
+#  #  - h2
 #  #   - http/1.1
 #  # skip-cert-verify: true
 

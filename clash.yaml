@@ -132,9 +132,9 @@ Proxy:
 
 - name: "Trojan节点的主机测试"
   type: trojan
-  server: www.v2rayssr.com
+  server: luxi.mattyxi.tk
   port: 443
-  password: v2rayssr.com
+  password: 79443b17
 
  
 ###############################################################配置分割线
